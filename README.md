@@ -5,5 +5,13 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Remo;I'm+a++bot+Developer+" alt="Typing SVG" /></a> </p>
 
+<p align="center">
+  <a href="https://t.me/Here_remo"><img src="https://envs.sh/vXU.jpg"></a>
+    </p>
+<p align="center">
+
+</p>
+
+<h3>
 
 
